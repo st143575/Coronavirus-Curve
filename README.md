@@ -1,1 +1,1 @@
-# Coronavirus-Curve
+# Coronavirus-Curve for cities of Baden-Württemberg
